@@ -6,7 +6,7 @@ class MojoCup < Cup
   end
 
   def dance
-    puts "*** I'm a dancin' Mojo Cup! ***"
+    puts "***** I'm a dancin' Mojo Cup! *****"
   end
 
 end
